@@ -1,8 +1,8 @@
 # Kubernetes Auto-Scaling & Monitoring (Minikube)
-
 This project demonstrates how to deploy a containerized application on Kubernetes, enable auto-scaling based on CPU usage, simulate traffic, and observe scaling behavior in real time.
 
----
+<img width="1574" height="731" alt="k8-autoscaling-k6 drawio" src="https://github.com/user-attachments/assets/7e5158f7-65c0-4f1a-972b-ae73ba1d1e2d" />
+<br><br>
 
 ## Overview
 
