@@ -192,18 +192,6 @@ kubectl get hpa -w
 ```bash
 kubectl get pods
 ```
-
----
-
-## Screenshots (Add Here)
-
-* Deployment running (pods list)
-* HPA scaling (2 → 8 pods)
-* kubectl top output
-* k6 load test output
-
----
-
 ## Cleanup
 
 ### Delete resources
@@ -237,7 +225,7 @@ minikube delete
 
 ---
 
-## Outcomes
+## Outcomes & Screenshots
 
 * Kubernetes Deployment and Service basics
   <br><br>
